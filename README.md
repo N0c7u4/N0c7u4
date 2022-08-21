@@ -12,3 +12,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-98FFFF?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000&?logoWidth=40)
 
 
+## find me at:
+
+[![linkedln](https://img.shields.io/badge/Linkedin-Steven_Florez-98FFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&?logoWidth=40)](https://www.linkedin.com/in/saflorezprieto/)
