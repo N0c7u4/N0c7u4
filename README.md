@@ -18,8 +18,8 @@
 
 ## Contact:
 
-[![correo](https://img.shields.io/badge/Mail-saflorezprieto@gmail.com-D60000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=000000&?logoWidth=40)](saflorezprieto@gmail.com)
+![correo](https://img.shields.io/badge/Mail-saflorezprieto@gmail.com-D60000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=000000&?logoWidth=40)
 
-
+<a href="mailto:saflorezprieto@gmail.com">![correo](https://img.shields.io/badge/Mail-saflorezprieto@gmail.com-D60000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=000000&?logoWidth=40)</a>
 <!---https://shields.io/category/other-->
 <!---https://simpleicons.org/?q=tre-->
