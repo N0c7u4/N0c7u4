@@ -15,3 +15,11 @@
 ## find me at:
 
 [![linkedln](https://img.shields.io/badge/Linkedin-Steven_Florez-98FFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&?logoWidth=40)](https://www.linkedin.com/in/saflorezprieto/)
+
+## Contact:
+
+[![correo](https://img.shields.io/badge/Mail-saflorezprieto@gmail.com-D60000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=000000&?logoWidth=40)](saflorezprieto@gmail.com)
+
+
+<!---https://shields.io/category/other-->
+<!---https://simpleicons.org/?q=tre-->
