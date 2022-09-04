@@ -3,7 +3,7 @@
 ## Skills:
 
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white&labelColor=000000&?logoWidth=40)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white&labelColor=000000&?logoWidth=40)]()
 ![bash](https://img.shields.io/badge/GNU_bash-252639?style=for-the-badge&logo=GNUbash&logoColor=white&labelColor=000000&?logoWidth=40)
 ![Java](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=000000&?logoWidth=40)
 ![Android](https://img.shields.io/badge/Android-98FF9B?style=for-the-badge&logo=Android&logoColor=white&labelColor=000000&?logoWidth=40)
