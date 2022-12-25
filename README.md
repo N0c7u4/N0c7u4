@@ -10,6 +10,7 @@
 [![Python](https://img.shields.io/badge/Python-000CFF?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&?logoWidth=40)](https://github.com/St3v3n-4n4)
 [![C#](https://img.shields.io/badge/C_Sharp-B200FF?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=000000&?logoWidth=40)](https://github.com/St3v3n-4n4)
 [![Arduino](https://img.shields.io/badge/Arduino-98FFFF?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000&?logoWidth=40)](https://github.com/St3v3n-4n4)
+[![Electronica](https://img.shields.io/badge/Electronica-3FE669?style=for-the-badge&logo=Minetest&logoColor=white&labelColor=000000&?logoWidth=40)](https://github.com/St3v3n-4n4)
 
 
 ## find me at:
