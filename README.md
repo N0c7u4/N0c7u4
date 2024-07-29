@@ -23,7 +23,7 @@
 
 ## Contact:
 
-<a href="mailto:steven.florez.prieto@outlook.com">![correo](https://img.shields.io/badge/Mail-saflorezprieto@gmail.com-D60000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=000000&?logoWidth=40)</a>
+<a href="mailto:steven.florez.prieto@outlook.com">![correo](https://img.shields.io/badge/Mail-steven.florez.prieto@outlook.com-D60000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=000000&?logoWidth=40)</a>
 
 
 <!--Link--->
